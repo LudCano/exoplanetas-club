@@ -13,7 +13,7 @@ Esta es la página donde centraremos los recursos y actualizaciones sobre la act
 # [Semana 0 (actividad previa)](week0/week0)
 Durante la semana 0 (25 de febrero al 1 de marzo), los estudiantes deberán aprender el manejo de las herramientas que vamos a utilizar durante las 3 semanas. 
 
-# [Parte 1: Métodos y distancias](week0/week0)
+# [Parte 1: Métodos y distancias](part1/about)
 En la primera parte de la actividad, los participantes aprenderán sobre los métodos de descubrimiento y empezarán a usar los catálogos de exoplanetas. Primero realizando histogramas, podremos estudiar eventos importantes en la historia del descubrimiento de exoplanetas, y con distribuciones de distancia por método aprenderemos los límites de cada método.
 
 
