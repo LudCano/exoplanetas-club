@@ -4,3 +4,18 @@ theme: just-the-docs
 
 url: https://LudCano.github.io/exoplanetas-club
 search_enabled: false
+
+callouts:
+  warning:
+    title: Importante
+    color: red
+
+callouts:
+  note:
+    title: Nota
+    color: blue
+
+callouts:
+  highlight:
+    title: A tomar en cuenta
+    color: green
