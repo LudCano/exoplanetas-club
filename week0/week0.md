@@ -9,6 +9,7 @@ En la semana previa a las actividades, deberán tener listas las herramientas pa
 # Opciones
 ## 1. Mybinder
 (Más sencilla para personas que no tengan Python instalado y no puedan instalarlo, uso directo e inmediato.)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LudCano/exoplanet_exploration/HEAD?labpath=code%2Fsemana0.ipynb)
 
 Esta versión **en la nube** del código se mantiene al día a través de actualizaciones automáticas.
 
