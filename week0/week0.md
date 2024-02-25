@@ -19,3 +19,10 @@ Esta versión **en la nube** del código se mantiene al día a través de actual
 (Sencilla de instalar, tendrán Python en adelante. No necesitan conexión a internet, solamente haber descargado el repositorio previo al curso)
 Acá deberán instalar python (como recomendación la forma más sencilla en cualquier plataforma es descargar e instalar [anaconda](https://www.anaconda.com/download)).
 Una vez descargado e instalado, pueden aprender a abrir archivos Jupyter Notebook (.ipynb) a través de Jupyter Notebook o Jupyterlab.
+Otra ventaja es que sus avances se guardan localmente.
+
+Incluso, si tienen conocimientos previos pueden usar Git para mantener actualizado el repositorio.
+
+
+## 3. Google Collab
+La tercera forma en que podrán usar el repositorio es usando [Google Collaboratory](colab.google), esta es la versión más _larga_, ya que necesitarán tener los archivos en su Google Drive y jalarlos desde allá, sin embargo, estos sí guardan los cambios que hagan, además de que no necesitan instalar nada. Esto se complica un poco debido a que cuando salgan actualizaciones al repositorio necesitarán volver a subir algunos archivos.
