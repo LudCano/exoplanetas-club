@@ -1,7 +1,10 @@
 ---
-title: Home
+title: Inicio
 layout: home
 ---
+
+Esta es la página donde centraremos los recursos y actualizaciones sobre la actividad de exoplanetas para el Club de Astronomía Planetario Max Schreier.
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
