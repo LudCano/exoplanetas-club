@@ -34,10 +34,16 @@ Se aplica la misma restricción, deberán asegurar tener internet durante la cla
 # 2. Actividad
 Para los que usaron MyBinder les guiará directamente al notebook para esta semana, si descargarán el repositorio dirigirse a la subcarpeta `code` y acceder al archivo `semana0.ipynb`, abrirlo con Jupyter Notebook o [Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html).
 
+Una vez estén en el notebook tendrán un repaso de uso de variables y funciones, es importante que sepan manejarlas para la siguiente sesión.
+
 # 3. Leer sobre exoplanetas
 Para estar más preparados sobre el tema a tratar se los invita a leer un poco sobre los métodos de descubrimiento de exoplanetas. A continuación adjunto algunos materiales:
  - [Métodos de descubrimiento de planetas extrasolares (Wikipedia)](https://es.wikipedia.org/wiki/Métodos_de_detección_de_planetas_extrasolares)
  - [Matu Astronomía (Youtube)](https://www.youtube.com/watch?v=sGV98pgAG6k)
+ - [How to find an exoplanet - ESA (en inglés)](https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/How_to_find_an_exoplanet)
+ - [Ziqi Dai et al 2021 _Five Methods of Exoplanet Detection_ J. Phys.: Conf. Ser. 2012 (artículo científico en inglés)](https://iopscience.iop.org/article/10.1088/1742-6596/2012/1/012135/pdf)
+
+**Extra**: Existe un musical interesante sobre la historia de las detecciones de exoplanetas (en serio, es bueno), usa las canciones de Aladdin y lo encuentran acá: [A whole new worlds](https://www.youtube.com/watch?v=gai8dMA19Sw)
 
 # Descargar repositorio
 Si usarán la versión local o Colab deberán descargar [repositorio](repo), para eso entran al link e ir a `Code`, posteriormente hacer clic en `Download ZIP`.
