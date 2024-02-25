@@ -5,6 +5,7 @@ nav_order: 1
 ---
 # Explorando exoplanetas
 _L. Cano-Fernandez_
+
 Facultad de Ciencias Puras y Naturales, UMSA
 
 ![](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/08/artist_impression_of_wasp-39_b_and_its_star/24420063-1-eng-GB/Artist_impression_of_WASP-39_b_and_its_star_pillars.jpg)
