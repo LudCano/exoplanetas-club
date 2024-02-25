@@ -10,12 +10,10 @@ callouts:
     title: Importante
     color: red
 
-callouts:
   note:
     title: Nota
     color: blue
 
-callouts:
   highlight:
     title: A tomar en cuenta
     color: green
