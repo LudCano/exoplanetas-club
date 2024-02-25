@@ -14,3 +14,8 @@ Esta versión **en la nube** del código se mantiene al día a través de actual
 
 {: .warning }
 > Para manejar la versión en mybinder deberán asegurar su conexión estable a internet, también tomar en cuenta que cuando terminen la actividad sus avances se cierran, por lo que deberán descargar sus avances.
+
+## 2. Python local
+(Sencilla de instalar, tendrán Python en adelante. No necesitan conexión a internet, solamente haber descargado el repositorio previo al curso)
+Acá deberán instalar python (como recomendación la forma más sencilla en cualquier plataforma es descargar e instalar [anaconda](https://www.anaconda.com/download)).
+Una vez descargado e instalado, pueden aprender a abrir archivos Jupyter Notebook (.ipynb) a través de Jupyter Notebook o Jupyterlab.
