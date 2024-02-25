@@ -5,7 +5,7 @@ layout: home
 
 Esta es la página donde centraremos los recursos y actualizaciones sobre la actividad de exoplanetas para el Club de Astronomía Planetario Max Schreier.
 
-# (Semana 0 (actividad previa))[/week0/week0.md]
+# [Semana 0 (actividad previa)][/week0/week0.md]
 Durante la semana 0 (25 de febrero al 1 de marzo), los estudiantes deberán aprender el manejo de las herramientas que vamos a utilizar durante las 3 semanas. 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
