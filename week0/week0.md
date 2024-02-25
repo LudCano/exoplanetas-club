@@ -21,7 +21,7 @@ Esta versión **en la nube** del código se mantiene al día a través de actual
 Para manejar la versión en mybinder deberán asegurar su conexión estable a internet, también tomar en cuenta que cuando terminen la actividad sus avances se cierran, por lo que deberán descargar sus avances.
 
 ## b. Python local
-(Sencilla de instalar, tendrán Python en adelante. No necesitan conexión a internet, solamente haber [descargado el repositorio](repo) previo al curso)
+(Sencilla de instalar, tendrán Python en adelante. No necesitan conexión a internet, solamente haber [descargado el repositorio](https://github.com/LudCano/exoplanet_exploration) previo al curso)
 Acá deberán instalar python (como recomendación la forma más sencilla en cualquier plataforma es descargar e instalar [anaconda](https://www.anaconda.com/download)).
 Una vez descargado e instalado, pueden aprender a abrir archivos Jupyter Notebook (.ipynb) a través de Jupyter Notebook o Jupyterlab.
 Otra ventaja es que sus avances se guardan localmente. Tampoco necesitan contar con internet durante la clase
@@ -47,7 +47,7 @@ Para estar más preparados sobre el tema a tratar se los invita a leer un poco s
 **Extra**: Existe un musical interesante sobre la historia de las detecciones de exoplanetas (en serio, es bueno), usa las canciones de Aladdin y lo encuentran acá: [A whole new worlds](https://www.youtube.com/watch?v=gai8dMA19Sw)
 
 # Descargar repositorio
-Si usarán la versión local o Colab deberán descargar [repositorio](repo), para eso entran al link e ir a `Code`, posteriormente hacer clic en `Download ZIP`.
+Si usarán la versión local o Colab deberán descargar [repositorio](https://github.com/LudCano/exoplanet_exploration), para eso entran al link e ir a `Code`, posteriormente hacer clic en `Download ZIP`.
 
 {: .highlight }
 Será recomendado que descarguen el repositorio o los archivos nuevos cada semana, pues habrá cambios. Para guardar sus cambios pueden separar los archivos ya trabajados en alguna otra carpeta o no reemplazar la descarga.
@@ -56,4 +56,3 @@ Será recomendado que descarguen el repositorio o los archivos nuevos cada seman
 
 En caso que sepan usar Git, pueden **clonar** el repositorio y tenerlo directamente en sus computadoras.
 
-[repo]: https://github.com/LudCano/exoplanet_exploration
