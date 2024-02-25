@@ -13,6 +13,10 @@ Durante la semana 0 (25 de febrero al 1 de marzo), los estudiantes deberán apre
 # [Parte 1: Métodos y distancias](week0/week0)
 En la primera parte de la actividad, los participantes aprenderán sobre los métodos de descubrimiento y empezarán a usar los catálogos de exoplanetas. Primero realizando histogramas, podremos estudiar eventos importantes en la historia del descubrimiento de exoplanetas, y con distribuciones de distancia por método aprenderemos los límites de cada método.
 
+
+## Repositorio
+<div class="github-card" data-github="LudCano/exoplanet_exploration" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
